@@ -1,12 +1,2 @@
 # IsaacMensahWebsite2026
 My First website
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My First Website</title>
-</head>
-<body>
-  <h1>Hello World!</h1>
-  <p>This is my free GitHub website.</p>
-</body>
-</html>
